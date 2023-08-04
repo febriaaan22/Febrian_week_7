@@ -1,0 +1,14 @@
+{
+  "name": "febrian",
+  "version": "1.0.0",
+  "description": "assignment week 7: financial tracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Febrian",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
