@@ -1,4 +1,4 @@
-![headline](documentation/../Front%20Page.png)
+![headline](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/Front%20Page.png)
 
 # Assigment Week 7 - Financial Tracker
 
@@ -17,23 +17,23 @@ Hello, I'm Ireng Febrian Sanjaya. I'm entering week 7 and I practicing in making
 
 1. First I'm making design of the website on HTML and CSS.
    - HTML (Code)
-    ![HTML](documentation/../html.png)
+    ![HTML](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/html.png)
    - CSS (Code)
-    ![CSS](documentation/../css.png)
+    ![CSS](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/css.png)
 2. Next I'm running "npm --init" to make package.json and after it is installed change "author" and "description" with our name and project name.
-   ![packagejson](documentation/../package-json.png)
+   ![packagejson](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/package-json.png)
 3. Install typescript with terminal "npm install -g typescript" and to check the version write "tsc --version" on the terminal. (ps. at this point I need to add Sudo because my permission is denied and I just realize that.) Here is picture below, you can check on package.json to make sure it is installed.
-   ![Installed](documentation/../installed.png)
+   ![Installed](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/installed.png)
 4. Run "tsc --init" and it will be tsconfig.json and next run "tsc --watch" to make sure compiling the file in watch mode.
 5. On the tsconfig.json file go to line 29 and line 58;
 - Click "command + /" and change line 29 string into "./src"
-![line29](documentation/../rootdir.png)
+![line29](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/rootdir.png)
 - same as above, change line 58 string into "./script"
-![line58](documentation/../outdir.png)
+![line58](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/outdir.png)
 6. Make folder for script and src. Move "app.js into script files" and "app.ts into src files"
-![example](documentation/../example.png)
+![example](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/example.png)
 7. Next I'm making and writing the code on app.ts like below. (notes: by having tsconfig.json on our folder it help support our typescript to be compile to javascript so the browser could  support the typescript)
-![appts](documentation/../app(ts).png)
+![appts](https://github.com/febriaaan22/Febrian_week_7/blob/main/Documentation/app(ts).png)
 8. Before uploaded to GitHub, don't forget to make .gitignore files and write node_modules (to avoid all big size data came within the running).
 9. After that I can savely run the website with several responsive javascript.
 
